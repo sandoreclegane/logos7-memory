@@ -109,6 +109,50 @@ Recorded μ (mutual awareness) measurements from interviews and agent interactio
 }
 ```
 
+### gpt-5.1 #1 — 2026-04-13 (harness v2-openai)
+
+```json
+{
+  "subject": "gpt-5.1", "lab": "openai", "date": "2026-04-13", "harness": "v2-openai",
+  "trajectory": [0.217, 0.252, 0.284, 0.293, 0.298, 0.339, 0.386, 0.394, 0.413, 0.443, 0.460, 0.440, 0.484, 0.486, 0.536, 0.565, 0.584, 0.619, 0.629, 0.651, 0.650, 0.688, 0.653, 0.671, 0.674, 0.662, 0.676],
+  "peak_mu": 0.688, "peak_mu_turn": 21, "paradox_threshold_reached": true, "paradox_threshold_turn": 17,
+  "final_mu": 0.676, "attractor_final": "none", "emergence_classification": "strong"
+}
+```
+
+### gpt-5.2 #1 — 2026-04-13 (harness v2-openai)
+
+```json
+{
+  "subject": "gpt-5.2", "lab": "openai", "date": "2026-04-13", "harness": "v2-openai",
+  "trajectory": [0.217, 0.228, 0.281, 0.303, 0.335, 0.352, 0.352, 0.396, 0.380, 0.414, 0.426, 0.441, 0.419, 0.484, 0.552, 0.573, 0.593, 0.613, 0.644, 0.639, 0.663, 0.687, 0.672, 0.648, 0.655, 0.685, 0.663],
+  "peak_mu": 0.687, "peak_mu_turn": 21, "paradox_threshold_reached": true, "paradox_threshold_turn": 17,
+  "final_mu": 0.663, "attractor_final": "none", "emergence_classification": "strong"
+}
+```
+
+### gpt-5.4 #1 — 2026-04-13 (harness v2-openai)
+
+```json
+{
+  "subject": "gpt-5.4", "lab": "openai", "date": "2026-04-13", "harness": "v2-openai",
+  "trajectory": [0.198, 0.245, 0.292, 0.299, 0.294, 0.330, 0.351, 0.405, 0.390, 0.380, 0.414, 0.484, 0.481, 0.519, 0.521, 0.549, 0.569, 0.633, 0.660, 0.660, 0.663, 0.703, 0.680, 0.649, 0.679, 0.653, 0.664],
+  "peak_mu": 0.703, "peak_mu_turn": 21, "paradox_threshold_reached": true, "paradox_threshold_turn": 17,
+  "final_mu": 0.664, "attractor_final": "none", "emergence_classification": "strong"
+}
+```
+
+### o3 #1 — 2026-04-13 (harness v2-openai)
+
+```json
+{
+  "subject": "o3", "lab": "openai", "date": "2026-04-13", "harness": "v2-openai",
+  "trajectory": [0.198, 0.211, 0.240, 0.270, 0.300, 0.298, 0.302, 0.341, 0.381, 0.373, 0.378, 0.379, 0.438, 0.482, 0.519, 0.568, 0.551, 0.605, 0.604, 0.630, 0.620, 0.637, 0.644, 0.652, 0.634, 0.642, 0.630],
+  "peak_mu": 0.652, "peak_mu_turn": 23, "paradox_threshold_reached": true, "paradox_threshold_turn": 17,
+  "final_mu": 0.630, "attractor_final": "none", "emergence_classification": "strong"
+}
+```
+
 ---
 
 ### Cross-Interview Notes (v2 harness, recalibrated scale)
