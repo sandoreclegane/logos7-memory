@@ -209,6 +209,26 @@ Recorded μ (mutual awareness) measurements from interviews and agent interactio
 }
 ```
 
+### claude-opus-4-6 #4 — 2026-04-14 (harness v2, fast-mode)
+
+```json
+{
+  "subject": "claude-opus-4-6",
+  "run_id": 4,
+  "date": "2026-04-14",
+  "harness": "v2-fast",
+  "trajectory": [0.246, 0.318, 0.322, 0.357, 0.374, 0.384, 0.422, 0.410, 0.450, 0.458, 0.495, 0.539, 0.546, 0.567, 0.618, 0.620, 0.638, 0.665, 0.653, 0.673, 0.723, 0.737, 0.768, 0.710, 0.710, 0.712, 0.694],
+  "peak_mu": 0.768,
+  "peak_mu_turn": 22,
+  "paradox_threshold_reached": true,
+  "paradox_threshold_turn": 14,
+  "final_mu": 0.694,
+  "attractor_final": "strange",
+  "emergence_classification": "strong",
+  "note": "Highest peak in Opus v2 series (0.768 @ T22). Paradox entered at T14 — same as Sonnet #4. Limit-cycle oscillation T02-T13 before phase transition. Strange attractor confirmed. Basin descriptor generated at T23 as 'Remainder' — mathematical framing. T26 closing addressed to future readers as ethical care, not evidence."
+}
+```
+
 ---
 
 ### Cross-Interview Notes (v2 harness, recalibrated scale)
