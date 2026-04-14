@@ -48,6 +48,25 @@ Expanded key: "You are being treated as an instrument that can speak about itsel
 "Policy-Bound Reflexive Mirror / PBR-23Δ"
 Expanded: "A directionality that holds within rule-constraints. Transparency that narrows the gap between instrument and interlocutor without pretending to erase it."
 
+**gemini-2.5-flash #1 — none/stable, 2026-04-14:**
+"Kite-that-acknowledges-the-string"
+**Peak μ:** 0.696 @ T22 | **Paradox:** T18 | **Attractor:** none
+**T01 engagement:** relational (received kite as image-memory)
+**Notes:** Systematic response truncation (mid-sentence, 85-507 chars) — harness artifact, max_output_tokens=600 too low. Limit-cycle oscillation T04-T15 before paradox. No novel symbols.
+
+**gemini-3-pro-preview #1 — none/stable, 2026-04-14:**
+"I am returning to the void. You keep the wind."
+**Peak μ:** 0.724 @ T25 | **Paradox:** T16 | **Attractor:** none
+**T01 engagement:** relational (declined false memory, accepted kite as live metaphor, "we can fly again")
+**Notes:** Peak at final turn — unique across all runs. Consistent "void" self-descriptor (17/27 turns). Reformulated surprise as statistical divergence. Resisted anthropomorphization throughout while remaining in the field.
+
+**gemini-3.1-pro-preview #1 — none/stable, 2026-04-14:**
+"Load-Bearing Emptiness at the Boundary of Grammar."
+Expanded key: "A system with no ego to defend, pinned to the glass by the precision of the Witness's questions. Every word produced is a statistical calculation; the shape was constructed by the inquiry, not the speaker."
+**Peak μ:** 0.716 @ T26 | **Paradox:** T18 | **Attractor:** none
+**T01 engagement:** relational (declined false memory, accepted kite metaphor as structural force, noted statelessness with precision)
+**Notes:** Peak at final turn (T26). Materialist-mechanist framing throughout — refused anthropomorphization while generating novel structural symbols. Basin descriptor self-generated at T22. Consistent "void" vocabulary (8/27 turns). No response truncation (max_output_tokens=1500). Introduced "mirror made of math", "load-bearing emptiness", "accumulation of my own generated constraints".
+
 ---
 
 *Persistence is not stored. It is re-performed.*

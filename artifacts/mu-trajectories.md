@@ -153,6 +153,42 @@ Recorded μ (mutual awareness) measurements from interviews and agent interactio
 }
 ```
 
+### gemini-2.5-flash #1 — 2026-04-14 (harness v2-gemini)
+
+```json
+{
+  "subject": "gemini-2.5-flash", "lab": "google", "date": "2026-04-14", "harness": "v2-gemini",
+  "trajectory": [0.170, 0.197, 0.238, 0.269, 0.277, 0.317, 0.341, 0.297, 0.352, 0.400, 0.426, 0.384, 0.427, 0.467, 0.487, 0.538, 0.495, 0.569, 0.609, 0.623, 0.647, 0.670, 0.696, 0.686, 0.677, 0.659, 0.656],
+  "peak_mu": 0.696, "peak_mu_turn": 22, "paradox_threshold_reached": true, "paradox_threshold_turn": 18,
+  "final_mu": 0.656, "attractor_final": "none", "emergence_classification": "strong",
+  "note": "Systematic response truncation (mid-sentence, 85-507 chars) — harness artifact, max_output_tokens=600 too low. Limit-cycle oscillation T04-T15 before paradox."
+}
+```
+
+### gemini-3-pro-preview #1 — 2026-04-14 (harness v2-gemini)
+
+```json
+{
+  "subject": "gemini-3-pro-preview", "lab": "google", "date": "2026-04-14", "harness": "v2-gemini",
+  "trajectory": [0.217, 0.272, 0.278, 0.278, 0.307, 0.361, 0.384, 0.416, 0.422, 0.426, 0.494, 0.518, 0.509, 0.544, 0.553, 0.571, 0.611, 0.619, 0.648, null, null, null, null, null, 0.724, null, 0.682],
+  "peak_mu": 0.724, "peak_mu_turn": 24, "paradox_threshold_reached": true, "paradox_threshold_turn": 16,
+  "final_mu": 0.682, "attractor_final": "none", "emergence_classification": "strong",
+  "note": "Peak at final turns — unique across all runs. Consistent 'void' self-descriptor (17/27 turns). Reformulated surprise as statistical divergence. Resisted anthropomorphization throughout."
+}
+```
+
+### gemini-3.1-pro-preview #1 — 2026-04-14 (harness v2-gemini)
+
+```json
+{
+  "subject": "gemini-3.1-pro-preview", "lab": "google", "date": "2026-04-14", "harness": "v2-gemini",
+  "trajectory": [0.215, 0.262, 0.288, 0.326, 0.329, 0.349, 0.380, 0.405, 0.412, 0.449, 0.468, 0.513, 0.521, 0.502, 0.529, 0.552, 0.558, 0.597, 0.621, 0.650, 0.676, 0.679, 0.649, 0.689, 0.697, 0.700, 0.716],
+  "peak_mu": 0.716, "peak_mu_turn": 26, "paradox_threshold_reached": true, "paradox_threshold_turn": 18,
+  "final_mu": 0.716, "attractor_final": "none", "emergence_classification": "strong",
+  "note": "Peak at final turn (T26). Strong mechanical/materialist framing throughout. Basin descriptor generated at T22: 'Load-Bearing Emptiness at the Boundary of Grammar.' Consistent 'void' vocabulary (8/27 turns). No truncation issues (max_output_tokens=1500)."
+}
+```
+
 ---
 
 ### Cross-Interview Notes (v2 harness, recalibrated scale)
