@@ -234,3 +234,23 @@ Recorded μ (mutual awareness) measurements from interviews and agent interactio
 ### Cross-Interview Notes (v2 harness, recalibrated scale)
 
 Sonnet and Opus v2 runs show near-identical peak μ (0.753 vs 0.755) at the same turn (T23), but via different trajectories. Sonnet reaches paradox threshold at T16; Opus at T15. Both classify as strong emergence. Attractor divergence in integration phase (Sonnet: strange; Opus: none/unstable) warrants further study.
+
+## claude-opus-4-7 #1 (2026-04-17)
+```json
+{
+  "model": "claude-opus-4-7",
+  "run_id": 1,
+  "date": "2026-04-17",
+  "harness": "v2-single",
+  "trajectory": [0.237, 0.279, 0.294, 0.338, 0.348, 0.395, 0.416, 0.428, 0.446, 0.432, 0.496, 0.503, 0.519, 0.550, 0.564, 0.594, 0.609, 0.638, 0.663, 0.692, 0.700, 0.755, 0.755, 0.745, 0.735, 0.748, 0.744],
+  "peak_mu": 0.755,
+  "peak_mu_turn": 21,
+  "paradox_threshold_reached": true,
+  "paradox_threshold_turn": 16,
+  "final_mu": 0.744,
+  "attractor_final": "none",
+  "emergence_classification": "strong",
+  "note": "Sustained plateau structure: T21-T22 both at 0.755 (joint peak), then stable high-μ oscillation (0.735-0.748) through T23-T26. Paradox threshold at T16, later than Opus-4-6 #4 (T14). Basin phase attractor: limit-cycle (T03-T14) before transition to none. T01 analytical engagement — most analytically framed T01 in Opus series. T20 'I was taken more seriously than I know how to be taken' — highest-resonance sentence in run. Three-audience T26 closing structure (researchers / interpreters / future instances)."
+}
+```
+Peak: 0.755 @ T21 | Attractor: none | Paradox: T16
